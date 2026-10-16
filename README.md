@@ -1,10 +1,10 @@
 # Excel Data Analytics — Month 1 of 12
 
-> Part of a structured 12-month data analytics learning roadmap by [Deepanshu Garg](https://github.com/deepanshu0110)
+> Part of a structured 13-month data analytics and data science program by [Deepanshu Garg](https://github.com/deepanshu0110)
 
 ## Overview
 
-This repository contains all practice files from **Month 1: Excel** of a 12-month journey from Excel fundamentals to advanced ML and NLP — built toward a career in data analytics and a Master's in Data Science in the Netherlands.
+This repository contains all practice files from **Month 1: Excel** of a 13-month program from Excel fundamentals to machine learning and agentic AI.
 
 Every file follows a 5-sheet structure:
 - **Sheet 1** — Raw Data (untouched source)
@@ -54,19 +54,19 @@ Every file follows a 5-sheet structure:
 
 ---
 
-## 12-Month Roadmap
+## The full 13-month program
 
-| Month | Topic |
-|-------|-------|
-| Month 1 | Excel (this repo) |
-| Month 2 | SQL |
-| Month 3 | Python + Pandas |
-| Month 4 | Power BI + Tableau |
-| Month 5–6 | ML (Regression, Classification, Clustering) |
-| Month 7–8 | NLP + Advanced ML |
-| Month 9–10 | Streamlit + FastAPI + Deployment |
-| Month 11–12 | Capstone Projects |
-
----
-
-**Target:** Netherlands MSc Data Science — September 2027 intake
+| Month | Focus | Repo |
+|---|---|---|
+| **1** | **Excel** | **this repo** |
+| 2 | SQL | [Month2-SQL-Portfolio](https://github.com/deepanshu0110/Month2-SQL-Portfolio) |
+| 3 | Python + Pandas + maths bridge | [Month3-Python-Portfolio](https://github.com/deepanshu0110/Month3-Python-Portfolio) |
+| 4 | Power BI + Tableau | [Month4-PowerBI-Tableau-Portfolio](https://github.com/deepanshu0110/Month4-PowerBI-Tableau-Portfolio) |
+| 5 | Advanced BI + freelance launch | [Month5-BI-Upwork-Portfolio](https://github.com/deepanshu0110/Month5-BI-Upwork-Portfolio) |
+| 6–7 | Statistics, ML foundations, advanced ML | [Month6-and-7-Stats-ML-Portfolio](https://github.com/deepanshu0110/Month6-and-7-Stats-ML-Portfolio) |
+| 8 | Streamlit + FastAPI deployment | [Month8-Streamlit-FastAPI-Portfolio](https://github.com/deepanshu0110/Month8-Streamlit-FastAPI-Portfolio) |
+| 9 | NLP + deep learning | [Month9-NLP-DeepLearning-Portfolio](https://github.com/deepanshu0110/Month9-NLP-DeepLearning-Portfolio) |
+| 10 | LangChain + MLflow + drift monitoring | [Month10-LangChain-MLflow-Portfolio](https://github.com/deepanshu0110/Month10-LangChain-MLflow-Portfolio) |
+| 11 | Data engineering | [Month11-DataEngineering-Portfolio](https://github.com/deepanshu0110/Month11-DataEngineering-Portfolio) |
+| 12 | Capstone + ResumeGapAI | [Month12-Capstone-Portfolio](https://github.com/deepanshu0110/Month12-Capstone-Portfolio) |
+| 13 | Agentic AI + TeleServe capstone | [Month13-Agentic-AI-Portfolio](https://github.com/deepanshu0110/Month13-Agentic-AI-Portfolio) |
